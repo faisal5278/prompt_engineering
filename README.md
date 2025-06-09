@@ -8,7 +8,7 @@ This project demonstrates how to use **LangChain** for prompt engineering, combi
 
 The notebook includes three main examples of prompt engineering:
 
-- **Financial Advisor Prompt:** 
+- **Financial Advisor Prompt:**  
   Uses a custom prompt to generate beginner-friendly explanations of financial concepts, such as income tax.
 
 - **Language Translation Prompt:**  
