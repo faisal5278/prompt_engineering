@@ -8,13 +8,13 @@ This project demonstrates how to use **LangChain** for prompt engineering, combi
 
 The notebook includes three main examples of prompt engineering:
 
-- **Financial Advisor Prompt**  
+- **Financial Advisor Prompt:** 
   Uses a custom prompt to generate beginner-friendly explanations of financial concepts, such as income tax.
 
-- **Language Translation Prompt**  
+- **Language Translation Prompt:**  
   Translates a given sentence into a target language using a simple templated prompt.
 
-- **Few-Shot Antonym Prediction**  
+- **Few-Shot Antonym Prediction:**  
   Demonstrates a few-shot learning approach by providing a model with a few examples of antonyms, then prompting it to predict the antonym of a new word.
 
 ---
