@@ -37,3 +37,13 @@ The notebook includes three main examples of prompt engineering:
    ```python
    import os
    os.environ["HUGGINGFACEHUB_API_TOKEN"] = "your_token_here"
+
+3. **Run the notebook** to test all three use cases.
+
+## 📌 Notes
+
+- Make sure you have access to the Hugging Face zephyr-7b-beta model.
+- This project focuses on prompt design, not fine-tuning or training models.
+- All responses depend on the quality of prompt engineering and the underlying model behavior.
+
+
